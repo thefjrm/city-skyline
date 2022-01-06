@@ -103,6 +103,7 @@ body {
     var(--window-color2) 6%,
     var(--window-color2) 9%
   );
+  overflow: hidden;
 }
 
 .bb3 {
